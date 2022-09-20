@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @lemcok
+- 👋 Hi, I’m Ricardo Flores
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-lemcok/lemcok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/lemcok/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemcok&layout=compact&theme=dracula&langs_count=6" />
+</a>
