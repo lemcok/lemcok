@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 <a href="https://github.com/lemcok/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemcok&layout=compact&theme=dracula&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemcok&layout=compact&theme=github_dark&langs_count=6" />
 </a>
